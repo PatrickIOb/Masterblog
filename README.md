@@ -101,6 +101,7 @@ Then open in your browser:
 http://localhost:5001
 
 🧠 How It Works
+
 Load posts
 
 ```
