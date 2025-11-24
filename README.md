@@ -16,6 +16,7 @@ JSON file storage
 Basic front-end styling
 
 📁 Project Structure
+
 your-project-folder/
 ├── app.py
 ├── data/
