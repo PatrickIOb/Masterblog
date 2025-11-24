@@ -26,8 +26,20 @@
    ">
    Delete
 </a>
+<a href="{{ url_for('update', post_id=post.id) }}"
+   style="
+       padding: 8px 12px;
+       background: green;
+       color: white;
+       text-decoration: none;
+       border-radius: 4px;
+       font-size: 14px;
+   ">
+   Update
+</a>
     </div>
     {% endfor %}
 <a href="{{ url_for('add') }}" style="padding: 8px 12px; background: #007BFF; color: white; text-decoration: none; border-radius: 4px;">Add a New Post</a>
+
 </body>
 </html>

@@ -1,4 +1,14 @@
 [
-    {"id": 1, "author": "John Doe", "title": "First Post", "content": "This is my first post."},
-    {"id": 2, "author": "Jane Doe", "title": "Second Post", "content": "This is another post."}
+    {
+        "author": "Swayze",
+        "title": "\u201cDivision Is an Illusion\u201d",
+        "content": "(Verse 1)\r\nLeft, right, left, right \u2014 I\u2019m done with the fight\r\nTired of the noise in the dead of the night\r\nWe\u2019re marching in circles, we\u2019re losing the view\r\nThey draw the lines, but we bleed the same hue\r\n\r\n(Pre-Chorus)\r\nThey sell us the story, they write all the rules\r\nWhile we tear each other down like fools\r\n\r\n(Chorus)\r\nWe are one, we are human\r\nDivision is an illusion\r\nMade by the rich to control the poor\r\nThey don\u2019t have power if we don\u2019t believe anymore\r\n\r\n(Verse 2)\r\nScreens keep us blinded, truth fades to gray\r\nThey whisper the lies and we drift away\r\nBut hearts beat louder than the sound of fear\r\nIf we stand together, the truth is clear\r\n\r\n(Pre-Chorus)\r\nThey build their walls, but we break them apart\r\nThe change begins inside our hearts\r\n\r\n(Chorus)\r\nWe are one, we are human\r\nDivision is an illusion\r\nMade by the rich to control the poor\r\nThey don\u2019t have power if we don\u2019t believe anymore\r\n\r\n(Bridge)\r\nNo more left, no more right\r\nJust hands reaching for the light\r\nThey can\u2019t own what they can\u2019t define\r\nWe are free, we decide\r\n\r\n(Final Chorus)\r\nWe are one, we are human\r\nDivision is an illusion\r\nMade by the rich to control the poor\r\nThey don\u2019t have power if we don\u2019t believe anymore\r\n\r\n(Outro)\r\nLeft, right, left, right \u2014 I want it to end\r\nWe\u2019re not enemies, we\u2019re friends",
+        "id": 2
+    },
+    {
+        "author": "Swayze",
+        "title": "Thinking",
+        "content": "Too much",
+        "id": 3
+    }
 ]
