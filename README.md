@@ -15,8 +15,9 @@ JSON file storage
 
 Basic front-end styling
 
-📁 Project Structure
+## 📁 Project Structure
 
+```
 your-project-folder/
 ├── app.py
 ├── data/
@@ -28,6 +29,8 @@ your-project-folder/
 ├── static/
 │   └── style.css
 └── README.md
+```
+
 
 🎨 Styling
 
