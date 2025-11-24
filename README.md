@@ -121,11 +121,11 @@ def save_blog_posts(posts):
 CRUD Routes
 
 ```
-Route	Method	Description
-/	GET	Display all posts
-/add	GET/POST	Create new post
+Route	        Method	    Description
+/	            GET	        Display all posts
+/add	        GET/POST	Create new post
 /update/<id>	GET/POST	Edit existing post
-/delete/<id>	GET	Remove a post
+/delete/<id>	GET	        Remove a post
 
 ```
 📜 License
