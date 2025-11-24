@@ -41,7 +41,11 @@ static/style.css
 
 To use it in your templates, include this line inside the <head> of each HTML file:
 
+```
+
 <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+
+```
 
 
 You can expand this file to adjust layout, spacing, colors, or responsiveness.
@@ -98,22 +102,32 @@ http://localhost:5001
 
 🧠 How It Works
 Load posts
+
+```
 def load_blog_posts():
     with open(DATA_FILE, "r", encoding="utf-8") as f:
         return json.load(f)
 
+```
+
 Save posts
+
+```
 def save_blog_posts(posts):
     with open(DATA_FILE, "w", encoding="utf-8") as f:
         json.dump(posts, f, indent=4)
 
+```
 CRUD Routes
+
+```
 Route	Method	Description
 /	GET	Display all posts
 /add	GET/POST	Create new post
 /update/<id>	GET/POST	Edit existing post
 /delete/<id>	GET	Remove a post
 
+```
 📜 License
 
 This project is free for learning and personal use.
